@@ -22,7 +22,7 @@ function slideshow(num){
     }
     slides[num].style.display = "block";
 }
-setInterval("slider(1)",2000);
+setInterval("slider(1)",1000);
 // slider end
 
 var moviesData = [
